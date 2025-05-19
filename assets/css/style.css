@@ -5209,6 +5209,14 @@ ol.wp-block-rss {
   height: auto;
 }
 
+.header-logo-white{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 170px;
+  height: auto;
+}
+
+
 .header-links ul {
   margin: 0;
   padding: 0;
